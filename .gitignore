@@ -1,0 +1,17 @@
+# Arduino build files
+*.ino.bin
+*.elf
+*.map
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
