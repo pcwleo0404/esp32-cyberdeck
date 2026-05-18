@@ -30,6 +30,13 @@ Build a small portable cyberdeck-style device to learn:
 | Case | Protection and mobility |
 
 ---
+## Preview
+
+### WiFi Scanner
+![WiFi Scanner](images/esp32_wifi-scanning.HEIC)
+
+### System Information
+![System Info](images/esp32_systeminfo.HEIC)
 
 # Current Features
 
