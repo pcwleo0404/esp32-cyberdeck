@@ -8,9 +8,10 @@ This folder contains photos and screenshots of the ESP32 cyberdeck project.
 
 | Image | Description |
 |---|---|
-| esp32-front.jpg | Front view of the ESP32 setup |
-| esp32-display.jpg | Display showing the menu or scanner output |
-
+| esp32_wifi-scanning.heic | Showing the esp while scanning wifi |
+| esp32_wifi.scanned.HEIC | Showing the output of the wifi scanning |
+| esp32_systeminfo.HEIC | showing the menu of the system informations |
+| esp32_wifi-jammer-prototype.HEIC | current prototype the the wifi jamming |
 
 ---
 
