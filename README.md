@@ -18,6 +18,7 @@ Build a small portable cyberdeck-style device to learn:
 
 ---
 
+
 # Hardware
 
 | Component | Purpose |
